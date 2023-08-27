@@ -6,6 +6,7 @@ Website creation for Jill and Isaac
 
 -- GITHUB
 https://docs.github.com/en/pages/quickstart
+https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 -- VS CODE
 https://www.youtube.com/watch?v=fWzp5lZ5CEA - VS Code for css,html,js
